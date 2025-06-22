@@ -1,6 +1,6 @@
 # Server-Side Engineering Concepts Explorer
 
-![Application Screenshot](./screenshots/landingpage.png) 
+![Application Screenshot](./ScreenShots/landingpage.png) 
 
 An interactive dashboard for learning and exploring fundamental server-side engineering concepts with React.
 
